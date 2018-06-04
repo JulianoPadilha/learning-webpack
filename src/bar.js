@@ -1,2 +1,2 @@
 // Node modules
-module.exports = "bar";
+module.exports = "bares";

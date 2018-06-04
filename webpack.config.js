@@ -45,5 +45,8 @@ module.exports = {
 	},
 	plugins: [
 		new UglifyJsPlugin()
-	]
+	],
+	devServer: {
+		port: 3000
+	}
 };
